@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8m2Y7k4JUgNfiuSeX3ru+b78ykC99alKywEOuL5CpN0KR5z0kpxZFOQrTCBbXdDkAq/6hDCvRVtNRBZsnCyjiw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Иван\\Desktop\\МОптим\\MO4\\MO4\\MO4.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Иван\\.nuget\\packages\\mathnet.numerics\\5.0.0\\mathnet.numerics.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
