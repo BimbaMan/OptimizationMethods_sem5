@@ -52,11 +52,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Иван\\Desktop\\МОптим\\MO4\\MO4\\MO4.csproj",
+      "projectUniqueName": "C:\\Users\\Иван\\Desktop\\Уник\\МОптим\\LR4\\LR4Rozenbrock\\MO4\\MO4.csproj",
       "projectName": "MO4",
-      "projectPath": "C:\\Users\\Иван\\Desktop\\МОптим\\MO4\\MO4\\MO4.csproj",
+      "projectPath": "C:\\Users\\Иван\\Desktop\\Уник\\МОптим\\LR4\\LR4Rozenbrock\\MO4\\MO4.csproj",
       "packagesPath": "C:\\Users\\Иван\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Иван\\Desktop\\МОптим\\MO4\\MO4\\obj\\",
+      "outputPath": "C:\\Users\\Иван\\Desktop\\Уник\\МОптим\\LR4\\LR4Rozenbrock\\MO4\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Иван\\AppData\\Roaming\\NuGet\\NuGet.Config",

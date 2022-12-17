@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8m2Y7k4JUgNfiuSeX3ru+b78ykC99alKywEOuL5CpN0KR5z0kpxZFOQrTCBbXdDkAq/6hDCvRVtNRBZsnCyjiw==",
+  "dgSpecHash": "IAwf1qow8qymACii2Zqdow9lzIjQidsyClN0+2tdfYEjP5Fp5rvfITcC8zLHQF2YOpmkzkEf00g9waAGrknRQg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Иван\\Desktop\\МОптим\\MO4\\MO4\\MO4.csproj",
+  "projectFilePath": "C:\\Users\\Иван\\Desktop\\Уник\\МОптим\\LR4\\LR4Rozenbrock\\MO4\\MO4.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Иван\\.nuget\\packages\\mathnet.numerics\\5.0.0\\mathnet.numerics.5.0.0.nupkg.sha512"
   ],

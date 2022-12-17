@@ -15,13 +15,13 @@ namespace MO4
             Console.WriteLine("F = " + unlimitData.GetArea(temp));
             Console.WriteLine("L = " + unlimitData.Function(temp));
 
-            Console.WriteLine("\nС ограничениями");
+          /*  Console.WriteLine("\nС ограничениями");
             var limitData = new OptimizeWithLimit();
             var method2 = new RosenbrockMethod.RosenbrockMethod(limitData);
             temp = method2.MinimizeFunction();
             
             Console.WriteLine("F = " + limitData.GetArea(temp));
-            Console.WriteLine("L = " + limitData.Function(temp));
+            Console.WriteLine("L = " + limitData.Function(temp));*/
         }
     }
 }

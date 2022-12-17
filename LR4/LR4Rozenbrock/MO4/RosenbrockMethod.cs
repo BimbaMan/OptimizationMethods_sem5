@@ -26,14 +26,14 @@ namespace RosenbrockMethod
             delta0 = Vector<double>.Build.Dense(input.N, 1.0); //начальная длина шага
             beta = -0.5; //коэф. сжатия
             alpha = 3; //коэф. растяжения
-            epsilon = 0.001; //число для остановки алгоритма
+            epsilon = 0.1; //число для остановки алгоритма
             N = 1000;//количество итераций
         }
         
         public Vector<double> MinimizeFunction()
         {
             Matrix<double> d = Matrix<double>.Build.DenseDiagonal(n + 1, n + 1, 1.0);
-            List<Vector<double>> x = new List<Vector<double>>{ Vector<double>.Build.Dense(n + 1, 10.0) };
+            List<Vector<double>> x = new List<Vector<double>>{ Vector<double>.Build.Dense(n + 1, 30.0) };
             List<Vector<double>> y = new List<Vector<double>>{ x[0] };
 
             Vector<double> lambda = Vector<double>.Build.Dense(n + 1);
